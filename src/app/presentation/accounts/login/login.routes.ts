@@ -1,8 +1,8 @@
 import { Routes } from "@angular/router";
 
-export const presentationRoutes: Routes = [
+export const LoginRoutes: Routes = [
   {
-    path:"",
+    path:'',
     loadComponent:()=> import('./login.component').then(p=>p.LoginComponent)
   }
 ]
