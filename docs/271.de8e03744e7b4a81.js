@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkng_clean_architecture=self.webpackChunkng_clean_architecture||[]).push([[271],{1271:(s,t,n)=>{n.r(t),n.d(t,{LoginRoutes:()=>o});const o=[{path:"",loadComponent:()=>n.e(376).then(n.bind(n,8376)).then(h=>h.LoginComponent)}]}}]);
